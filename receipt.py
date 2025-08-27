@@ -6,5 +6,9 @@ print("How can i help you")
 customer_name = input("May I know your name: ")
 item_name = input("what do you want: ")
 
+cart = []
+
 for item_name in pizza:
-    
+    append.cart[item_name]
+
+
