@@ -1,1 +1,1 @@
-pizza = [ "veg", "non-veg", "vegan"]
+pizza = [ "veg", "non-veg", "vegan","egg"]
