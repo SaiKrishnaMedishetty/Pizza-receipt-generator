@@ -9,6 +9,6 @@ item_name = input("what do you want: ")
 cart = []
 
 for item_name in pizza:
-    append.cart[item_name]
+    cart.append[item_name]
 
 
